@@ -11,3 +11,9 @@ console.log("\nFor Each: \n")
 myArr.forEach(function(item){
     console.log(item);
 })
+
+// For Each with Index 
+console.log("\nFor Each: \n");
+myArr.forEach(function(item, index){
+    console.log(`${index}: ${item}`);
+})
