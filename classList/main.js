@@ -22,6 +22,9 @@ for (let i = 0; i < buttonList.length; i++){
         // toggles between a class on and off.
         buttonClassList.toggle("active");
 
+        // Replaces whats there with somethng else
+        // buttonClasslist.replace("active", "not-active");
+
 
     })
 }
