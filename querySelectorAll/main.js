@@ -55,7 +55,7 @@ Bubbling
 
 - Clicking  outside of the button but still inside the parent div will also change the entire section amd modify whatever the the section to whatever is specified.
 
-- event.target - pass the parameter(event) inside yu callback function and than use event.target to select the specific elements inside your parent div.
+- event.target - pass the parameter(event) inside you callback function and than use event.target to select the specific elements inside your parent div.
 */
 
 let buttonsParentDiv = document.querySelector("#section-2-buttons");
