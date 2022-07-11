@@ -27,7 +27,4 @@ for (let i = 0; i < buttonList.length; i++){
 }
 
 
-// classList - converts all classes that an element contains into a nice array that we can work with
-    // classList[0] grabs the first class in the list
-    // classList[classList.length -1] grabs the last one in the list
 
